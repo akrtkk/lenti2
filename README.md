@@ -7,7 +7,9 @@ How to use
 ==========
 1. Type this in your terminal:
    ```
+
    python main/interpret.py idont.txt
+
    ```
 2. How to code:
 
