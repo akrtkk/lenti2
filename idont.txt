@@ -1,0 +1,2 @@
+printF:Hello # OUTPUT_MARKER 
+while True:printF
